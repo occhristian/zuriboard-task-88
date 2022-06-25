@@ -1,0 +1,1 @@
+This js calculator file was written as my own solution for Zuriboard Task 88. It performs only addition, subtraction, multiplication, division, and modulo operations. Simply enter the operation you would like to perform (in figures, and including the operator of choice). The calculator will do the math, and print your result. Enjoy!
